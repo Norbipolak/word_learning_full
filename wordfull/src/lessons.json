@@ -1,0 +1,26 @@
+{
+    "lessons": [
+        {
+            "title": "Lesson1",
+            "description": "Ezek itt angol szavak",
+            "words": [
+                {
+                    "eng": "dog",
+                    "hun": "kutya"
+                },
+                {
+                    "eng": "cat",
+                    "hun": "macska"
+                },
+                {
+                    "eng": "tree",
+                    "hun": "fa"
+                },
+                {
+                    "eng": "duck",
+                    "hun": "kacsa"
+                }
+            ]
+        }
+    ]
+}
